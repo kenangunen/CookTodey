@@ -1,0 +1,211 @@
+[
+ {
+  "id": "98765401",
+  "category": "Kırmızı Et",
+  "name": "Fırında Patlıcan",
+  "photo": "firinda-patlıcan",
+  "numOfPeople": "4",
+  "time": "40'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "500 gram kıyma,2 adet orta boy soğan (rendelenmiş),1/2 demet maydanoz,2 diş sarımsak,1 su bardağı bayat ekmek,1 çay kaşığı tuz,1 çay kaşığı karabiber,1 çay kaşığı pul biber,1 çay kaşığı kimyon,3 adet patlıcan, 3 adet kiraz domates (boş yerlere eklemek için)",
+  "metarials": "Kıyma,Soğan,Maydanoz,Sarımsak,Kimyon,Domates,Patlıcan"
+ },
+ {
+  "id": "98765402",
+  "category": "Kırmızı Et",
+  "name": "Hünkar Beğendi",
+  "photo": "hunkar-begendi",
+  "numOfPeople": "4",
+  "time": "60'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "600 gram kuzu but (arzuya göre dana eti),2 adet orta boy kuru soğan,4 diş sarımsak,3 yemek kaşığı zeytinyağı,3 adet orta boy domates,1 yemek kaşığı domates salçası,2 su bardağı sıcak su,1 çay kaşığı, tuz,4 adet orta boy patlıcan,1,5 su bardağı süt,1,5 yemek kaşığı un,1 yemek kaşığı tereyağı,1/2 su bardağı rendelenmiş kaşar peyniri,1 çay kaşığı taze çekilmiş tane karabiber",
+  "metarials": "Kuşbaşı,Soğan,Zeytinyağı,Sarımsak,Domates,Domates Salçası,Patlıcan,Süt,Un,Tereyağı,Kaşar Peynir"
+ },
+ {
+  "id": "98765403",
+  "category": "Kırmızı Et",
+  "name": "Antep Tava",
+  "photo": "antep-tava",
+  "numOfPeople": "4",
+  "time": "60'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "250 gram kuşbaşı dana eti,1 adet patates,1 adet patlıcan,2 adet domates,1 adet kuru soğan,1 adet kapya biber,4 diş sarımsak,1 yemek kaşığı domates salçası,1/2 çay bardağı zeytinyağı,1 su bardağı su,1 çay kaşığı tuz,1 çay kaşığı kekik,1 çay kaşığı karabiber,1 çay kaşığı kimyon,1 çay kaşığı toz kırmızı biber",
+  "metarials": "Kuşbaşı,Patates,Patlıcan,Domates,Soğan,Kapya Biber,Sarımsak,Domates Salçası,Zeytinyağı,Kekik,Kimyon"
+ },
+ {
+  "id": "98765404",
+  "category": "Çorba",
+  "name": "Mercimek Çorbası",
+  "photo": "mercimek-corbasi",
+  "numOfPeople": "6",
+  "time": "20'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "1 su bardağı kırmızı mercimek,2 adet orta boy havuç,1 adet orta boy kuru soğan,1 diş sarımsak,6 su bardağı sıcak su,3 yemek kaşığı ayçiçek yağı,1 yemek kaşığı un,1 tatlı kaşığı domates salçası,1 çay kaşığı tuz,1/2 çay kaşığı karabiber",
+  "metarials": "Kırmızı Mercimek,Havuç,Soğan,Sarımsak,Sıvı Yağ,Un,Domates Salçası"
+ },
+ {
+  "id": "98765405",
+  "category": "Çorba",
+  "name": "Ezogelin Çorbası",
+  "photo": "ezogelin-corbasi",
+  "numOfPeople": "6",
+  "time": "15'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "1 su bardağı kırmızı mercimek,1 adet büyük boy soğan,2 yemek kaşığı biber salçası,1 yemek kaşığı tereyağı,1/2 çay bardağı sıvı yağ, 1 yemek kaşığı pirinç,2 yemek kaşığı bulgur, 1 tatlı kaşığı pul biber, 1 çay kaşığı karabiber,6 - 6,5 su bardağı sıcak su, 1 çay kaşığı tuz",
+  "metarials": "Kırmızı Mercimek,Soğan,Biber Salçası,Tereyağı,Sıvı Yağ,Pirinç,Bulgur"
+ },
+ {
+  "id": "98765406",
+  "category": "Çorba",
+  "name": "Tavuk Çorbası",
+  "photo": "tavuk-corbasi",
+  "numOfPeople": "4",
+  "time": "20'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "1 adet tavuk budu (kalçalı),2 adet defne yaprağı,1/2 tatlı kaşığı tuz,2 litre su,1 çay bardağı tel şehriye,1 su bardağı yoğurt,1,5 yemek kaşığı un,1 adet yumurta sarısı",
+  "metarials": "Tavuk But,Defne Yaprağı,Şehriye,Yoğurt,Un,Yumurta"
+ },
+ {
+  "id": "98765407",
+  "category": "Sebze",
+  "name": "Nohutlu Kereviz",
+  "photo": "nohutlu-kereviz",
+  "numOfPeople": "2",
+  "time": "40''",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "2,5 yemek kaşığı sıvı yağ, 1 adet soğan,1 adet havuç,1 yemek kaşığı (silme) un, 1 bağ kereviz sapı,2 adet kereviz, 1,5 su bardağı haşlanmış nohut,2 çay kaşığı tuz,1 çay bardağı karabiber,2,5 bardak su",
+  "metarials": "Sıvı Yağ,Nohut,Soğan,Havuç,Un,Kereviz"
+ },
+ {
+  "id": "98765408",
+  "category": "Sebze",
+  "name": "Fırında Karnabahar",
+  "photo": "firinda-karnabahar",
+  "numOfPeople": "4",
+  "time": "45''",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "1/2 adet karnabahar(orta boy),1 su bardağı un,1 çay bardağı süt,1/2 çay bardağı zeytinyağı,1 adet yumurta, 2 çay kaşığı tuz,2 çay kaşığı toz kırmızı biber,1 çay kaşığı karabiber",
+  "metarials": "Karnabahar,Un,Süt,Zeytinyağı,Yumurta"
+ },
+ {
+  "id": "98765409",
+  "category": "Sebze",
+  "name": "Tarçınlı Barbunya",
+  "photo": "tarcinli-barbunya",
+  "numOfPeople": "4",
+  "time": "35'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "700 gram haşlanmış barbunya,1/2 çay bardağı sıvı yağ,1/2 çay bardağı zeytinyağı,2 adet soğan,2 adet havuç,1 yemek kaşığı domates salçası,3 diş sarımsak,3 adet rendelenmiş domates,2 yemek kaşığı kuş üzümü,1 çay kaşığı tuz,1 çay kaşığı toz şeker,2 adet çubuk tarçın,1/2 su bardağı su,1/2 demet doğranmış maydanoz",
+  "metarials": "Barbunya,Sıvı Yağ,Zeytinyağı,Soğan,Havuç,Domates Sakçası,Sarımsak,Domates,Kuş Üzümü,Tarçın,Maydanoz"
+ },
+ {
+  "id": "98765410",
+  "category": "Hamur İşi",
+  "name": "Dere Otlu Poğaça",
+  "photo": "dereotlu-pogaca",
+  "numOfPeople": "12",
+  "time": "35'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "1 çay bardağı sıvı yağ,1 çay bardağı yoğurt,1 çay kaşığı tuz,1 paket kabartma tozu,1/2 demet dereotu,1 adet yumurta,3 su bardağı un",
+  "metarials": "Sıvı Yağ,Yoğurt,Kabartma Tozu,Dereotu,Yumurta,Un"
+ },
+ {
+  "id": "98765411",
+  "category": "Tatlı",
+  "name": "Şeker Pare",
+  "photo": "sekerpare",
+  "numOfPeople": "10",
+  "time": "55'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "1 su bardağı pudra şekeri,125 gram margarin veya tuzsuz tereyağı,2 adet yumurta,2 yemek kaşığı hindistan cevizi,1 paket vanilin ,1 paket,kabartma tozu,4 yemek kaşığı irmik,3 su bardağı un,20 adet fındık,2 su bardağı toz şeker, 3 su bardağı su,3 damla limonun suyu",
+  "metarials": "Pudra Şekeri, Margarin, Yumura,Fındık"
+ },
+ {
+  "id": "98765412",
+  "category": "Tatlı",
+  "name": "Islak Kek",
+  "photo": "islak-kek",
+  "numOfPeople": "10",
+  "time": "50'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "3 adet yumurta,1 su bardağı toz şeker,1 su bardağı süt,1 su bardağı ayçiçek yağı, 2 yemek kaşığı kakao,1 paket vanilya,1 su bardağı un,1 paket kabartma tozu",
+  "metarials": "Yumurta,Toz Şekeri,Süt,Sıvı Yağ,Kakao,Vanilya,Un,Kabartma Tozu"
+ },
+ {
+  "id": "98765413",
+  "category": "Tatlı",
+  "name": "Limonlu Kurabiye",
+  "photo": "limonlu-kurabiye",
+  "numOfPeople": "5",
+  "time": "35'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "2 adet yumurta,1 çay bardağı yoğurt,1,5 çay bardağı sıvı yağ,1,5 çay bardağı pudra şekeri,1 paket vanilya, 2 adet limonun kabuğu,1 adet limon suyu,1 çay kaşığı kabartma tozu,3 - 3,5 su bardağı un",
+  "metarials": "Yumurta,Yoğurt,Sıvı Yağ,Pudra Şekeri,Vanilya,Limon,Kabartma Tozu,Un"
+ },
+ {
+  "id": "98765414",
+  "category": "Hamur İşi",
+  "name": "Somun Ekmek",
+  "photo": "somun-ekmek",
+  "numOfPeople": "10",
+  "time": "45'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "6 su bardağı un,2,5 su bardağı ılık su,1/2 su bardağı ılık süt,1 paket instant maya,3 tatlı kaşığı toz şeker,2 tatlı kaşığı tuz",
+  "metarials": "Un,Süt,Maya"
+ },
+ {
+  "id": "98765415",
+  "category": "Beyaz Et",
+  "name": "Sebzeli Tavuk Sote",
+  "photo": "sebzeli-tavuk-sote",
+  "numOfPeople": "4",
+  "time": "50'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "3 adet tavuk bonfile,1 adet kapya biber,1 adet sarı dolmalık biber,1 adet soğan,2 diş sarımsak,5-6 adet fasulye,2 yemek kaşığı soya sosu,3 yemek kaşığı sıvı yağ,1 çay kaşığı tuz ,1/2 çay kaşığı toz kırmızı biber,1/2 çay kaşığı beyaz biber",
+  "metarials": "Tavuk Bonfile,Kapya Biber,Soğan,Sarımsak,Fasulye,Soya Sosu,Sıvı Yağ"
+ },
+ {
+  "id": "98765416",
+  "category": "Beyaz Et",
+  "name": "Kalamar Tava",
+  "photo": "kalamar-tava",
+  "numOfPeople": "2",
+  "time": "120'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "1 adet bütün kalamar,1 şişe maden suyu,1 tatlı kaşığı toz şeker,1/2 çay kaşığı karbonat,1/4 çay kaşığı tuz,2 dilim bayat ekmek içi,2 yemek kaşığı ceviz içi,3 yemek kaşığı zeytinyağı,1 yemek kaşığı süzme yoğurt,1 tatlı kaşığı limon suyu,2 diş rendelenmiş sarımsak,1/2 çay kaşığı tuz",
+  "metarials": "Kalamar,Maden Suyu,Karbonat,Ceviz,Zeytinyağı,Yoğurt,Sarımsak"
+ },
+ {
+  "id": "98765417",
+  "category": "Çorba",
+  "name": "Ayran Aşı Çorbası",
+  "photo": "ayran-asi-corbasi",
+  "numOfPeople": "5",
+  "time": "50'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "1 su bardağı buğday,1 su bardağı nohut,250 gram süzme yoğurt,250 gram yoğurt,1 su bardağı su,1 çay kaşığı tuz,1 tatlı kaşığı dereotu",
+  "metarials": "Buğday,Nohut,Yoğurt,Dereotu"
+ },
+ {
+  "id": "98765418",
+  "category": "Çorba",
+  "name": "Bulgurlu Yeşil Mercimek Çorbası",
+  "photo": "bulgurlu-yesil-mercimek-corbasi",
+  "numOfPeople": "5",
+  "time": "40'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "1 su bardağı yeşil mercimek,1/2 su bardağı iri bulgur,1 adet orta boy havuç,1 adet orta boy soğan,1 yemek kaşığı domates salçası,1 yemek kaşığı tereyağı,1 yemek kaşığı zeytinyağı, 2 yemek kaşığı un, 1/2 tatlı kaşığı tuz,1 çay kaşığı karabiber,5-6 su bardağı su",
+  "metarials": "Yeşil Mercimek,Tereyağı,Zeytinyağı,Un"
+ },
+ {
+  "id": "98765419",
+  "category": "Kırmızı Et",
+  "name": "Tas Kebabı",
+  "photo": "tas-kebabi",
+  "numOfPeople": "5",
+  "time": "20'",
+  "directions": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia soluta, inventore nesciunt obcaecati fugiat aspernatur dicta ratione tenetur atque eveniet ducimus quasi magni, voluptatem tempore expedita. Praesentium doloremque facilis officia pariatur commodi quo, maiores possimus! Iusto omnis accusamus cupiditate incidunt mollitia nihil adipisci at delectus non quasi, iste cumque vitae!",
+  "ingredients": "800 gram kuşbaşı dana eti, 1 yemek kaşığı ayçiçek yağı,2 yemek kaşığı tereyağı,1 adet orta boy kuru soğan,3 diş sarımsak,1 yemek kaşığı un,1 tatlı kaşığı domates salçası,1 tatlı kaşığı tuz,2 adet orta boy patates,1 adet orta boy havuç,3 su bardağı sıcak su,4 adet tane karabiber",
+  "metarials": "Kuşbaşı,Sıvı Yağ,Tereyağı,Soğan,Sarımsak,Un,Domates Salçası,Patates,Havuç"
+ }
+]

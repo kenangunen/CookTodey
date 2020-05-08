@@ -1,0 +1,11 @@
+@import '../../variable.scss';
+
+.section-img {
+ position: fixed;
+ width: 100%;
+ background-image: url('../../img/sectionPhoto.jpg');
+ height: 100vh;
+ background-size: cover;
+ z-index: 1;
+ opacity: 0.6;
+}

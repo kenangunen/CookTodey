@@ -1,0 +1,84 @@
+[
+ {
+  "id": "01",
+  "category": "Kırmızı & Beyaz Et",
+  "elements": [
+   "Kıyma",
+   "Kuşbaşı",
+   "Tavuk Kanat",
+   "Tavuk But",
+   "Tavuk Bonfile",
+   "Kalamar"
+  ]
+ },
+ {
+  "id": "02",
+  "category": "Baklagil",
+  "elements": [
+   "Pirinç",
+   "Bulgur",
+   "Şehriye",
+   "Buğday",
+   "Nohut",
+   "Barbunya",
+   "Kırmızı Mercimek",
+   "Yeşil Mercimek"
+  ]
+ },
+ {
+  "id": "03",
+  "category": "Sebze",
+  "elements": [
+   "Domates",
+   "Maydanoz",
+   "Limon",
+   "Patates",
+   "Patlıcan",
+   "Havuç",
+   "Sarımsak",
+   "Soğan",
+   "Kapya Biber",
+   "Kereviz",
+   "Karnabahar",
+   "Dereotu"
+  ]
+ },
+ {
+  "id": "04",
+  "category": "Yardımcı Malzemeler",
+  "elements": [
+   "Tereyağı",
+   "Zeytinyağı",
+   "Sıvı Yağ",
+   "Süt",
+   "Yumurta",
+   "Soya Sosu",
+   "Domates Salçası",
+   "Kaşar Peynir",
+   "Biber Salçası",
+   "Kuş Üzümü",
+   "Maden Suyu",
+   "Ceviz"
+  ]
+ },
+ {
+  "id": "05",
+  "category": "Baharat",
+  "elements": ["Kişniş", "Kimyon", "Tarçın", "Defne Yaprağı", "Kekik"]
+ },
+ {
+  "id": "06",
+  "category": "Hamur İşi & Pasta",
+  "elements": [
+   "Un",
+   "Kabartma Tozu",
+   "Maya",
+   "Damla Çikolata",
+   "Vanilya",
+   "Pudra Şekeri",
+   "Toz Şekeri",
+   "Kakao",
+   "Karbonat"
+  ]
+ }
+]

@@ -1,0 +1,31 @@
+@import '../../variable.scss';
+.section {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ position: relative;
+ width: 100%;
+ transition: opacity 2s;
+ background-color: $white;
+ height: 92vh;
+ //  bottom: 100px;
+}
+
+.sec-header {
+ height: 70px;
+
+ h2 {
+  font-size: 2rem;
+  color: $primary;
+  text-align: center;
+ }
+}
+
+.passage-section {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 400px;
+ background-color: #ff3e1c23;
+ //  background-image: linear-gradient(180deg, #a9c9ff2a 0%, #ffbbec23 100%);
+}
